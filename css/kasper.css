@@ -1089,7 +1089,7 @@ header nav ul a:hover
     padding-bottom: var(--section-padding);
     padding-top: var(--section-padding);
     position: relative;
-    background-image: url("/imgs/istockphoto-1616897621-640x640.jpg");
+    background-image: url("imgs/istockphoto-1616897621-640x640.jpg");
     background-size: cover;
     color: white;
 }
@@ -1411,7 +1411,7 @@ span {
             position: relative;
             color: white;
             text-align: center;
-            background-image: url("/imgs/a5ljm0o_deserts_625x300_24_May_23.jpg");
+            background-image: url("imgs/a5ljm0o_deserts_625x300_24_May_23.jpg");
             background-size: cover;
             margin-bottom: -107px;
         }
